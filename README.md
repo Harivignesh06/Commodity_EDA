@@ -1,8 +1,8 @@
 # Commodity_EDA
 
-##Commodity Price Analysis (2000–2023)
+## Commodity Price Analysis (2000–2023)
 
-##Project Overview
+## Project Overview
 
 This project focuses on analyzing the historical price movements of three major commodities — Gold, Copper, and Nickel — from the year 2000 to 2023.
 The goal is to explore price trends, volatility, and correlations between these commodities in order to identify investment insights, risk levels, and diversification opportunities.
